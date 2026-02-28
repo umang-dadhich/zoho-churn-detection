@@ -72,9 +72,6 @@ The model learns patterns from user activity and predicts churn probability base
 
 ---
 
-
----
-
 ## Output
 
 The system generates:
